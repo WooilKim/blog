@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://wooilkim@github.com/wooilkim/wooilkim.github.io.git
+[submodule "themes/icarus"]
+	path = themes/icarus
+	url = https://wooilkim@github.com/wooilkim/hugo-icarus-theme.git
