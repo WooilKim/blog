@@ -1,10 +1,10 @@
 baseurl = "https://wooilkim.github.io/"
 languageCode = "en-us"
-title = "Icarus"
+title = "Wooil"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "spf13"
+disqusShortname = "WooilKim"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-132678781-1"
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
@@ -64,14 +64,14 @@ themesDir = "./themes/"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/digitalcraftsman"
+    follow_button = "https://github.com/wooilkim"
 
 
 [social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    github          = "digitalcraftsman"
+    github          = "wooilkim"
     gitlab          = ""
     bitbucket       = ""
     jsfiddle        = ""
@@ -89,7 +89,7 @@ themesDir = "./themes/"
     wordpress       = ""
     tumblr          = ""
     xing            = ""
-    linkedin        = ""
+    linkedin        = "wooilkim@korea.ac.kr"
     slideshare      = ""
     stackoverflow   = ""
     reddit          = ""
@@ -98,7 +98,7 @@ themesDir = "./themes/"
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "spf13"
+    twitter         = ""
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
