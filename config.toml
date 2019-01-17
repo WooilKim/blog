@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://wooilkim.github.io/"
 languageCode = "en-us"
 title = "Icarus"
 # Enable comments by entering your Disqus shortname
@@ -19,15 +19,15 @@ themesDir = "./themes/"
 
 [params]
     # Tell me who you are
-    author = "John Doe"
-    bio = "Blogger - Programmer - Gopher"
-    location = "Earth"
+    author = "Wooil Kim"
+    bio = "Blogger - Programmer - Researcher"
+    location = "Seoul, Republic of Korea"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
     avatar = "css/images/avatar.png"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
     # will fallback to the avatar.
-    gravatar = "you@example.com"
+    gravatar = "wooilkim@korea.ac.kr"
     logo = "css/images/logo.png"
     disable_mathjax = false # set to true to disable MathJax
 
